@@ -8,7 +8,7 @@ public class Runner {
 		
 		slot1.printPokemon();
 		slot2.printPokemon();
-		System.out.println(Pokemon.num);
+		System.out.println("Full Slots: " + Pokemon.num);
 		
 	}
 
